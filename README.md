@@ -74,17 +74,9 @@ Recall – True positives among actual positives
 
 F1-Score – Harmonic mean of precision and recall
 
-Confusion Matrix – Detailed classification breakdown
-
-ROC Curve & AUC – Model discrimination ability
-
 ## 📸 Example Visualizations
 
 2D PCA scatter plot of digit classes
 
 <img width="671" height="545" alt="image" src="https://github.com/user-attachments/assets/ad1d9cba-866e-48c5-aca5-7fe32c27b708" />
 
-
-Confusion matrix heatmap for each classifier
-
-ROC curves with AUC scores
